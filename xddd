@@ -15,7 +15,7 @@ getgenv().Varity = {
 
 -- // silent aim //
 
-local xeno = loadstring(game:HttpGet("https://gist.githubusercontent.com/theproe/aee9decc516048f84e5ff235a89b09f8/raw/299e9bc4c0cd297d43299c9cefa6abd61e81bdaa/xeno"))()
+local xeno = loadstring(game:HttpGet("https://raw.githubusercontent.com/tennaki/asaa/main/ooooo"))()
 
 
 xeno.TeamCheck(false)
